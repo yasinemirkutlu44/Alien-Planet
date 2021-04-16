@@ -1,0 +1,37 @@
+---------References------------
+[1] J. Jie, K. Yang, and S. Haihui. Research on the 3d game scene optimization of
+mobile phone based on the unity 3d engine. In 2011 International Conference on
+Computational and Information Sciences, pages 875{877, 2011.
+[2] L. Jiyuan and H. Wenfeng. Development of puzzle game for ios platform based
+on unity3d. In 2015 3rd International Conference on Applied Computing and In-
+formation Technology/2nd International Conference on Computational Science and
+Intelligence, pages 468{473, 2015.
+[3] A. R. Martin and S. Colton. Towards liveness in game development. In 2019 IEEE
+Conference on Games (CoG), pages 1{4, 2019.
+[4] Z. He, M. Shi, and C. Li. Research and application of path-finding algorithm based
+on unity 3d. In 2016 IEEE/ACIS 15th International Conference on Computer and
+Information Science (ICIS), pages 1{4, 2016.
+[5] D. Nikolaeva, M. Safi, M. Mihailov, A. Georgiev, V. Bozhikova, and M. Stoeva.
+Algorithm a* and design patterns used in unity video game development. In 2020
+International Conference Automatics and Informatics (ICAI), pages 1{3, 2020.
+[6] A. B. Rathod, S. M. Gulhane, and S. R. Padalwar. A comparative study on distance
+measuring approches for permutation representations. In 2016 IEEE International
+Conference on Advances in Electronics, Communication and Computer Technology
+(ICAECCT), pages 251{255, 2016.
+[7] A. Meliones and I. Plas. Developing video games with elementary adaptive artificial
+intelligence in unity: An intelligent systems approach. In 2017 Intelligent Systems
+Conference (IntelliSys), pages 104{111, 2017.
+[8] B. Zhang and W. Hu. Game special eect simulation based on particle system of
+unity3d. In 2017 IEEE/ACIS 16th International Conference on Computer and In-
+formation Science (ICIS), pages 595{598, 2017.
+[9] K. Shoop, C. Lowthorpe, L. Anderson, and S. Lucas. The games fusion project:
+Competencies for game design. In 2019 IEEE Conference on Games (CoG), pages
+1{4, 2019.
+[10] Audio sources of prefabs and scenes. https://freesound.org. Online;accessed 20-
+February-2021.
+[11] Current score's and buttons' texts. https://www.dafont.com. Online;accessed 2-
+March-2021.
+[12] Main prefabs and some of the ideas (Fire effect, camera follow up, gravity, star particle). https://github.com/TemelGunaydin/Defenders.
+Online;accessed 11-February-2021.
+[13] Strong alien prefab. https://assetstore.unity.com. Online;accessed 1-March-2021.
+[14] Code2flow. https://app.code2flow.com. Online;accessed 30-March-2021.
